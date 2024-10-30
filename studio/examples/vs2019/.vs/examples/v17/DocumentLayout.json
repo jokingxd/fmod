@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joeyc\\OneDrive\\Desktop\\SIT IMGD Y3S1\\CSD3401\\RAT\\LiberationEngine3D\\Extern\\fmod\\studio\\examples\\vs2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43E52E5-7C76-4131-B6F2-28F07622127D}|event_parameter.vcxproj|C:\\Users\\joeyc\\OneDrive\\Desktop\\SIT IMGD Y3S1\\CSD3401\\RAT\\LiberationEngine3D\\Extern\\fmod\\studio\\examples\\common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "common.cpp",
+              "DocumentMoniker": "C:\\Users\\joeyc\\OneDrive\\Desktop\\SIT IMGD Y3S1\\CSD3401\\RAT\\LiberationEngine3D\\Extern\\fmod\\studio\\examples\\common.cpp",
+              "RelativeDocumentMoniker": "..\\common.cpp",
+              "ToolTip": "C:\\Users\\joeyc\\OneDrive\\Desktop\\SIT IMGD Y3S1\\CSD3401\\RAT\\LiberationEngine3D\\Extern\\fmod\\studio\\examples\\common.cpp",
+              "RelativeToolTip": "..\\common.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T13:16:26.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
